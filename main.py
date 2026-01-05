@@ -3,7 +3,7 @@ import pandas as pd
 
 # Step 2: Load the dataset
 # Replace 'your_dataset.csv' with the actual file path
-df = pd.read_csv('your_dataset.csv')
+df = pd.read_csv('dataset.csv')
 
 # Step 3: Print the total number of rows
 print("Total number of rows:", len(df))
